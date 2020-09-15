@@ -10,7 +10,7 @@ This is just a quick script for show casing some  vscode functionalities. And so
 
 **Create:** ``` python3 -m venv /path/to/new/virtual/environment```
 
-**Activate** ``` sourche /path/to/new/virtual/environment/bin/activate```
+**Activate** ``` source /path/to/new/virtual/environment/bin/activate```
 
 **Deactivate:** ``deactivate``
 
@@ -23,6 +23,7 @@ This is just a quick script for show casing some  vscode functionalities. And so
 
 
 ### Github basics
+Initialise a repository: `git init`
 
 Clone a repository: `git clone <link>`
 

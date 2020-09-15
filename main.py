@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-amount_values = 50
+amount_values = 70
 x = np.arange(amount_values)
 y = np.random.normal(size=(amount_values))
 plt.ylabel('Some beautiful random numbers')

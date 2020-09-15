@@ -1,10 +1,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-amount_values = 50
+amount_values = 15
 x = np.arange(amount_values)
-y = np.random.normal(size=(amount_values))
-plt.ylabel('Some beautiful random numbers')
+y = x
+plt.ylabel('¿Linear stuff?')
 plt.xlabel('Some not so random but still very beautiful numbers')
 
 plt.plot(x, y)

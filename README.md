@@ -26,6 +26,8 @@ This is just a quick script for show casing some  vscode functionalities. And so
 
 Clone a repository: `git clone <link>`
 
+Git status, get status of your repository: `git status `
+
 Get the latest version of the repository: `git pull`
 
 Add files that you want to push: `git add /path/to/file.py`
@@ -33,3 +35,13 @@ Add files that you want to push: `git add /path/to/file.py`
 If you have added all the files, create a commit ("you bundle the files to a single commit-package"): `git commit -m "messages about the changes"`
 
 Git push: `git push `
+
+
+
+### terminal basics
+
+create File: `touch <name.extension>`
+
+changing directory `cd` 
+
+printing content of current directory `ls`

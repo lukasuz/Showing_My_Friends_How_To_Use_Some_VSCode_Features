@@ -43,6 +43,8 @@ Git push: `git push `
 
 create File: `touch <name.extension>`
 
-changing directory `cd` 
+changing directory `cd <path>` 
 
 printing content of current directory `ls`
+
+create a directory `mkdir <name>`
